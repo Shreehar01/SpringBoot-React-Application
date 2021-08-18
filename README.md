@@ -1,4 +1,4 @@
-# Springboot-React-Application
+# SpringBoot-React-Application
 
 ## Download
 ```git clone https://github.com/Shreehar01/Springboot-React-Application.git```
