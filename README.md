@@ -1,7 +1,7 @@
 # SpringBoot-React-Application
 
 ## Download
-```git clone https://github.com/Shreehar01/Springboot-React-Application.git```
+```git clone https://github.com/Shreehar01/SpringBoot-React-Application.git```
 ## Open Terminal
 ```cd frontend```
 ## Install NPM Dependencies 
